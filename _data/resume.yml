@@ -2,22 +2,16 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
+  name: "Carson Hegge"
   label: "Programmer"
-  picture: "https://via.placeholder.com/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  picture: "https://media.licdn.com/dms/image/C4E03AQFDlYFawkkzGg/profile-displayphoto-shrink_200_200/0/1649641781232?e=2147483647&v=beta&t=pgDNLM4ob6erIebXo3QGRlj-THywpwXpg2BncvPRB4c"
+  email: "heggec28@hotmail.com"
+  phone: "(815)-847-0692"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    Highly motivated and dedicated, pursuing a Bachelor's degree in Computer Science, with a intermediate foundation in software development and
+    experience as a Software Developer Intern. Possesses excellent problem-solving skills and a passion for learning new coding languages.
+    Demonstrates a track record of reliability and commitment through previous work experience. Planning to further enhance skills in cyber security
+    through upcoming courses.
   location:
     address: "2712 Broadway St"
     postalCode: "CA 94115"
@@ -25,69 +19,56 @@ basics:
     countryCode: "US"
     region: "California"
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Carson Hegge"
+      url: "https://www.linkedin.com/in/carson-hegge-98946b237"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "Ablesoft Solutions"
+    position: "Software Developer"
+    website: "https://www.ablesoftsolutions.com/"
+    startDate: "2022-10-09"
     endDate: ""
     summary: >
       Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
       consistently fielded high Weisman Scores™ that are not merely competitive,
       but approach the theoretical limit of lossless compression.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
+      - "Collaborated with a team of developers to design and implement software solutions for clients."
+      - "Participated in the full software development lifecycle, including requirements gathering, coding, testing, and deployment."
+      - "Contributed to the development of web applications using C#, and .NET Framework."
+      - "Assisted in debugging and resolving software defects to ensure high-quality deliverables."
+      - "Actively engaged in reviews and provided constructive feedback to improve quality and maintainability."
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
+  - institution: "Northern Illinois University"
+    area: "Computer Science"
     studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+    startDate: "2022-08-15"
+    endDate: ""
+  - institution: "Kishwaukee Community College"
+    area: "Science"
+    studyType: "Associates"
+    startDate: "2020-08-15"
+    endDate: "2022-05-15"
 skills:
-  - name: "Web Development"
+  - name: "Programming Languages"
     level: "Master"
     keywords:
       - "HTML"
       - "CSS"
+      - "C++"
+      - "C#"
       - "Javascript"
-  - name: "Compression"
+  - name: "Software Development"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Debugging"
+      - ".NET Framework"
+      - "Testing"
+  - name: "Problem Solving/Communication"
+    level: "Master"
+    keywords:
+      - "Experience in collaborating with teams to brainstorm ideas and develop strategies to overcome challenges."
+      - "Excellent written and verbal communication skills."
 languages:
   - language: "English"
     fluency: "Native speaker"
