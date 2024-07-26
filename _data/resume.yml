@@ -14,7 +14,7 @@ basics:
     through upcoming courses.
   location:
     address: ""
-    postalCode: "61061"
+    postalCode: ""
     city: "Oregon"
     countryCode: "US"
     region: "Illinois"
@@ -69,16 +69,8 @@ skills:
     keywords:
       - "Experience in collaborating with teams to brainstorm ideas and develop strategies to overcome challenges."
       - "Excellent written and verbal communication skills."
-languages:
-  - language: "English"
-    fluency: "Native speaker"
 interests:
-  - name: "Wildlife"
+  - name: "Golfing"
+  - name: "Hiking"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      - "Nature"
