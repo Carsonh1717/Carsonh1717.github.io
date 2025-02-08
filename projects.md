@@ -1,9 +1,8 @@
 ---
-layout: projects
-title: Projects
-show_collection: projects
+layout: experience
+title: Experience
+show_collection: experience
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  This is some of the expierence I have working with software, and some of the items I have worked on.
 no_groups: true
 ---

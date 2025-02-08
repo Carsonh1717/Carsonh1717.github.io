@@ -17,9 +17,9 @@ import { merge } from 'rxjs';
 import { filter } from 'rxjs/operators';
 
 import { setupFLIPTitle } from './title';
-import { setupFLIPProject } from './pro/project';
+import { setupFLIPProject } from './pro/experience';
 
-const FLIP_TYPES = ['title', 'projects'];
+const FLIP_TYPES = ['title', 'experience'];
 
 export function setupFLIP(start$, ready$, fadeIn$, options) {
   const other$ = start$.pipe(filter(({ flipType }) => !FLIP_TYPES.includes(flipType)));

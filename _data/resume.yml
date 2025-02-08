@@ -14,7 +14,7 @@ basics:
     through upcoming courses.
   location:
     address: ""
-    postalCode: ""
+    postalCode: "61061"
     city: "Oregon"
     countryCode: "US"
     region: "Illinois"
@@ -49,12 +49,7 @@ education:
     area: "Computer Science"
     studyType: "Bachelor"
     startDate: "2022-08-15"
-    endDate: ""
-  - institution: "Kishwaukee Community College"
-    area: "Science"
-    studyType: "Associates"
-    startDate: "2020-08-15"
-    endDate: "2022-05-15"
+    endDate: "2024-12-15"
 skills:
   - name: "Programming Languages"
     level: "Master"
@@ -64,19 +59,23 @@ skills:
       - "C++"
       - "C#"
       - "Javascript"
+      - "Ruby"
   - name: "Software Development"
     level: "Master"
     keywords:
       - "Debugging"
       - ".NET Framework"
       - "Testing"
+      - "Backend"
+      - "Frontend"
   - name: "Problem Solving/Communication"
     level: "Master"
     keywords:
       - "Experience in collaborating with teams to brainstorm ideas and develop strategies to overcome challenges."
       - "Excellent written and verbal communication skills."
 interests:
-  - name: "Golfing"
-  - name: "Hiking"
+  - name: "Outdoors"
     keywords:
-      - "Nature"
+      - "Golfing"
+      - "Hiking"
+      - "Biking"

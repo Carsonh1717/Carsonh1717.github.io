@@ -51,12 +51,10 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Projects
-    url:               /projects/
+  - title:             Experience
+    url:               /experience/
   - title:             Resume
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -134,7 +132,7 @@ defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
   - scope:
-      type:            projects
+      type:            experience
     values:
       seo:
         type:          WebPage
@@ -288,8 +286,8 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  projects:
-    permalink:         /projects/:path/
+  experience:
+    permalink:         /experience/:path/
     output:            true
 
 
@@ -404,13 +402,13 @@ jekyll_compose:
         social media previews, etc.
       image:
         path: /assets/img/SideBarUpdate.jpg
-    projects:
-      layout: project
+    experience:
+      layout: experience
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/SideBarUpdate.jpg
       links:
-        - title: Project Link
+        - title: Experience Link
           url: https://example.com
