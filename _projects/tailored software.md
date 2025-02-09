@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Tailored Software'
+title: '@Tailored Software'
 caption: Working with ablesoft solutions we have made a ton of software for smaller companies.
 description: >
   A majority of what we did was working on taking excel and completly tranforming it into a readable and accessable app.
@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/projects/HydeJack@0,25x.jpg
 links:
   - title: Link
-    url: https://carsonhportfolio.netlify.app/project/
+    url: https://carsonhportfolio.netlify.app/projects/
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
