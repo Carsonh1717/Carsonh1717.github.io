@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img",
+    "\\assets\\img\\projects",
+    "\\_projects"
   ],
+  "SelectedNode": "\\_projects\\qwtel.md",
   "PreviewInSolutionExplorer": false
 }

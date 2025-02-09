@@ -3,12 +3,112 @@
   "WorkspaceRootPath": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_projects\\qwtel.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\qwtel.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_layouts\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\.scripts\\version.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\.scripts\\version.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\pro\\other-projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_includes\\pro\\other-projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_data\\strings.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\strings.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_layouts\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\styles\\pro\\projects.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_includes\\styles\\pro\\projects.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\assets\\js\\push-state-hydejack-9.1.6.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\assets\\js\\push-state-hydejack-9.1.6.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\pro\\related-posts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_includes\\pro\\related-posts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\styles\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_includes\\styles\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\resume.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resume.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\head\\css\\projects||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_includes\\head\\css\\projects||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\project.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_layouts\\project.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\assets\\js\\LEGACY-push-state-hydejack-9.1.6.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\assets\\js\\LEGACY-push-state-hydejack-9.1.6.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_js\\src\\flip\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_js\\src\\flip\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\jekyll-theme-hydejack.gemspec||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\jekyll-theme-hydejack.gemspec||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\pro\\resume\\education.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_includes\\pro\\resume\\education.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_data\\resume.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\resume.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\Gemfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gemfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_js\\src\\clap-button.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_js\\src\\clap-button.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\assets\\bower.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\assets\\bower.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_layouts\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_layouts\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:#jekyll-theme-hydejack\\_layouts\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,26 +127,352 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Gemfile",
-              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\Gemfile",
-              "RelativeDocumentMoniker": "Gemfile",
-              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\Gemfile",
-              "RelativeToolTip": "Gemfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-26T04:25:04.228Z"
+              "Title": "welcome.html",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\welcome.html",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_layouts\\welcome.html",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\welcome.html",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_layouts\\welcome.html",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-09T00:50:08.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "version.js",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\.scripts\\version.js",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\.scripts\\version.js",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\.scripts\\version.js",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\.scripts\\version.js",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-09T00:50:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "strings.yml",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_data\\strings.yml",
+              "RelativeDocumentMoniker": "_data\\strings.yml",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_data\\strings.yml",
+              "RelativeToolTip": "_data\\strings.yml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwHUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-08T23:38:44.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "related-posts.html",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\pro\\related-posts.html",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_includes\\pro\\related-posts.html",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\pro\\related-posts.html",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_includes\\pro\\related-posts.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-08T23:38:43.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\README.md",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\README.md",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\README.md",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\README.md",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAQwLoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-08T23:38:38.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "push-state-hydejack-9.1.6.js",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\assets\\js\\push-state-hydejack-9.1.6.js",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\assets\\js\\push-state-hydejack-9.1.6.js",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\assets\\js\\push-state-hydejack-9.1.6.js",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\assets\\js\\push-state-hydejack-9.1.6.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACxDQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-08T23:38:37.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "qwtel.md",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_projects\\qwtel.md",
+              "RelativeDocumentMoniker": "_projects\\qwtel.md",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_projects\\qwtel.md",
+              "RelativeToolTip": "_projects\\qwtel.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-08T23:16:16.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "projects.scss",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\styles\\pro\\projects.scss",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_includes\\styles\\pro\\projects.scss",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\styles\\pro\\projects.scss",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_includes\\styles\\pro\\projects.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-08T23:38:30.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "projects.html",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\projects.html",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_layouts\\projects.html",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\projects.html",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_layouts\\projects.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-08T23:37:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "other-projects.html",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\pro\\other-projects.html",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_includes\\pro\\other-projects.html",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\pro\\other-projects.html",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_includes\\pro\\other-projects.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-08T23:37:42.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_config.yml",
               "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
               "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_config.yml",
               "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAF4BAAAAAAAAAAAxwHsBAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAQwOAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-07-26T04:24:28.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "style.scss",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\styles\\style.scss",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_includes\\styles\\style.scss",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\styles\\style.scss",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_includes\\styles\\style.scss",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-08T23:38:48.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "resume.md",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\resume.md",
+              "RelativeDocumentMoniker": "resume.md",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\resume.md",
+              "RelativeToolTip": "resume.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-08T23:18:23.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "projects.md",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\projects.md",
+              "RelativeDocumentMoniker": "projects.md",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\projects.md",
+              "RelativeToolTip": "projects.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-08T23:37:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "projects",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\head\\css\\projects",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_includes\\head\\css\\projects",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\head\\css\\projects",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_includes\\head\\css\\projects",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-08T23:37:45.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "project.html",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\project.html",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_layouts\\project.html",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\project.html",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_layouts\\project.html",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAFkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-08T23:37:44.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LEGACY-push-state-hydejack-9.1.6.js",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\assets\\js\\LEGACY-push-state-hydejack-9.1.6.js",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\assets\\js\\LEGACY-push-state-hydejack-9.1.6.js",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\assets\\js\\LEGACY-push-state-hydejack-9.1.6.js",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\assets\\js\\LEGACY-push-state-hydejack-9.1.6.js",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAACBGwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-08T23:37:41.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_js\\src\\flip\\index.js",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_js\\src\\flip\\index.js",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_js\\src\\flip\\index.js",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_js\\src\\flip\\index.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-08T23:37:27.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "jekyll-theme-hydejack.gemspec",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\jekyll-theme-hydejack.gemspec",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\jekyll-theme-hydejack.gemspec",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\jekyll-theme-hydejack.gemspec",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\jekyll-theme-hydejack.gemspec",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-08T23:36:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "resume.yml",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_data\\resume.yml",
+              "RelativeDocumentMoniker": "_data\\resume.yml",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\_data\\resume.yml",
+              "RelativeToolTip": "_data\\resume.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-08T23:18:37.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "education.html",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\pro\\resume\\education.html",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_includes\\pro\\resume\\education.html",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_includes\\pro\\resume\\education.html",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_includes\\pro\\resume\\education.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-08T23:18:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clap-button.js",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_js\\src\\clap-button.js",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_js\\src\\clap-button.js",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_js\\src\\clap-button.js",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_js\\src\\clap-button.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-08T23:16:02.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bower.json",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\assets\\bower.json",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\assets\\bower.json",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\assets\\bower.json",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\assets\\bower.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T23:15:52.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "blog.html",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\blog.html",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_layouts\\blog.html",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\blog.html",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_layouts\\blog.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-08T23:15:51.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "base.html",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\base.html",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_layouts\\base.html",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\base.html",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_layouts\\base.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-08T23:15:50.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Gemfile",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\Gemfile",
+              "RelativeDocumentMoniker": "Gemfile",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\Gemfile",
+              "RelativeToolTip": "Gemfile",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-26T04:25:04.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\about.html",
+              "RelativeDocumentMoniker": "#jekyll-theme-hydejack\\_layouts\\about.html",
+              "ToolTip": "C:\\Users\\hegge\\source\\repos\\Carsonh1717\\Carsonh1717.github.io\\#jekyll-theme-hydejack\\_layouts\\about.html",
+              "RelativeToolTip": "#jekyll-theme-hydejack\\_layouts\\about.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-08T23:15:47.275Z",
               "EditorCaption": ""
             }
           ]

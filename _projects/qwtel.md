@@ -1,5 +1,5 @@
 ---
-layout: experience
+layout: project
 title: 'Tailored Software'
 caption: Working with ablesoft solutions we have made a ton of software for smaller companies.
 description: >
@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/projects/HydeJack@0,25x.jpg
 links:
   - title: Link
-    url: https://carsonhportfolio.netlify.app/experience/
+    url: https://carsonhportfolio.netlify.app/project/
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
