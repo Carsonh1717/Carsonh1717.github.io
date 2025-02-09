@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/projects/HydeJack@0,25x.jpg
 links:
   - title: Link
-    url: https://carsonhportfolio.netlify.app/projects/
+    url: https://carsonhportfolio.netlify.app/experience/
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
