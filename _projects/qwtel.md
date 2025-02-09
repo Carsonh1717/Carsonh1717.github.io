@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experience
 title: 'Tailored Software'
 caption: Working with ablesoft solutions we have made a ton of software for smaller companies.
 description: >
