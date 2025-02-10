@@ -1,6 +1,6 @@
 ---
-layout: project
-title: '@Tailored Software'
+layout: experience
+title: 'Tailored Software'
 caption: Working with ablesoft solutions we have made a ton of software for smaller companies.
 description: >
   A majority of what we did was working on taking excel and completly tranforming it into a readable and accessable app.
