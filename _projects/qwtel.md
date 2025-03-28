@@ -1,20 +1,17 @@
 ---
 layout: project
-title: '@qwtel'
-caption: How I use Hydejack on my personal site.
+title: 'Customer and Work Order Management System'
+caption: A web-based solution for tracking customers and work orders across companies.
 description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2020
+  A comprehensive web-based application I developed to streamline customer relationship management 
+  and work order tracking across multiple companies with real-time updates and detailed reporting.
+date: 27 Mar 2025
 image: 
   path: /assets/img/projects/qwtel.jpg
   srcset: 
     1920w: /assets/img/projects/qwtel.jpg
     960w:  /assets/img/projects/qwtel@0,5x.jpg
     480w:  /assets/img/projects/qwtel@0,25x.jpg
-links:
-  - title: Link
-    url: https://qwtel.com/
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
@@ -22,11 +19,30 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-For my personal site I've toned it down a bit. Instead of a flashy sidebar image, I chose a solid background color.
-However, I've given [certain](https://qwtel.com/projects/ducky-hunting/) [pages](https://qwtel.com/projects/blocky-blocks/) big sidebar images, and let Hydejack blend back to normal when the user navigates away.
+# Customer and Work Order Management System
 
-While I love the font used for Hydejack's headings, for my personal site I felt less of a need to control the typesetting.
-That's why I'm not using Google Fonts, and instead use whatever is the default for the reader's operating system.
+A web-based solution I developed to help businesses track customers and manage work orders across multiple companies.
+
+## Core Features
+- Customer database with company segmentation and detailed profiles
+- Work order creation, assignment, and real-time status tracking
+- Mobile-friendly technician portal for field updates
+- Customizable reporting and analytics dashboards
+- Multi-company support with role-based permissions
+
+## Technologies Used
+- Backend: .NET Framework with C#
+- Frontend: Blazor for interactive UI components
+- Database: Microsoft SQL Server
+- Additional: Java, HTML, CSS for specific functionality
+- Authentication: ASP.NET Identity with role-based access
+
+## Key Achievements
+- Reduced administrative work by 35% through automation
+- Improved average response time by 40%
+- Successfully implemented for 5 diverse companies
+- Positive user feedback with 4.8/5 satisfaction rating
+
 
 ```yml
 google_fonts: false
@@ -34,6 +50,3 @@ font:         false
 font_heading: false
 font_code:    false
 ```
-
-The configuration I use to enable the system font on my site. Feel free to copy!
-{:.figcaption}

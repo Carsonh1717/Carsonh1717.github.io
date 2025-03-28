@@ -3,7 +3,6 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  Here are some different projects I have worked on with .NET, Blazor, C#, SQL, Java, etc.
 no_groups: true
 ---

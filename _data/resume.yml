@@ -4,14 +4,16 @@
 basics:
   name: "Carson Hegge"
   label: "Programmer"
-  picture: "https://media.licdn.com/dms/image/C4E03AQFDlYFawkkzGg/profile-displayphoto-shrink_200_200/0/1649641781232?e=2147483647&v=beta&t=pgDNLM4ob6erIebXo3QGRlj-THywpwXpg2BncvPRB4c"
+  picture: "https://media.licdn.com/dms/image/v2/D5603AQE1dUjTNWQQJg/profile-displayphoto-shrink_200_200/B56ZTnwn1VGUAY-/0/1739055071712?e=1748476800&v=beta&t=3tifEaganl5lkZUt6bcdtmhVHiFDd1VUz07UbcTiXy4"
   email: "heggec28@hotmail.com"
   phone: "(815)-847-0692"
   summary: >
-    Highly motivated and dedicated, pursuing a Bachelor's degree in Computer Science, with a intermediate foundation in software development and
-    experience as a Software Developer Intern. Possesses excellent problem-solving skills and a passion for learning new coding languages.
-    Demonstrates a track record of reliability and commitment through previous work experience. Planning to further enhance skills in cyber security
-    through upcoming courses.
+    Recent Computer Science graduate from Northern Illinois University seeking a Software Developer position. 
+    Offering practical experience building enterprise web applications with .NET, C#, SQL, Blazor, HTML, CSS, and JavaScript 
+    gained through academic projects and a successful internship-to-employment transition. Demonstrated technical capabilities 
+    by developing a comprehensive Customer and Work Order Management System that enhanced business efficiency. Possesses strong 
+    full-stack development skills, exceptional problem-solving abilities, and effective communication developed through collaborative 
+    professional experiences. Ready to leverage technical knowledge and proven workplace success to deliver innovative software solutions.
   location:
     address: ""
     postalCode: "61061"
