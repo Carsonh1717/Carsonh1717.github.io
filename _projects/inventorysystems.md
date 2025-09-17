@@ -9,10 +9,6 @@ description: >
 date: 27 Mar 2025
 image: 
   path: /assets/img/projects/inventory-system.png
-  srcset: 
-    1920w: /assets/img/projects/inventory-system.jpg
-    960w:  /assets/img/projects/qwtel@0,5x.jpg
-    480w:  /assets/img/projects/qwtel@0,25x.jpg
 accent_color: '#512bd4'
 accent_image:
   background: '#2d1b69'
