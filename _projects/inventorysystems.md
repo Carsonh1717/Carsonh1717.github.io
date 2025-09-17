@@ -6,7 +6,7 @@ description: >
   A comprehensive web application I developed using .NET Core and React to help businesses 
   streamline inventory operations with real-time tracking, automated alerts, and detailed 
   reporting across multiple locations.
-date: 27 Mar 2025
+date: 9 September 2025
 image: 
   path: /assets/img/projects/inventory-system.png
 accent_color: '#512bd4'
