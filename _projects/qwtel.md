@@ -20,7 +20,6 @@ sitemap: false
 ---
 
 # Customer and Work Order Management System
-
 A web-based solution I developed to help businesses track customers and manage work orders across multiple companies.
 
 ## Core Features
@@ -41,4 +40,3 @@ A web-based solution I developed to help businesses track customers and manage w
 - Reduced administrative work by 35% through automation
 - Improved average response time by 40%
 - Successfully implemented for 5 diverse companies
-- Positive user feedback with 4.8/5 satisfaction rating
