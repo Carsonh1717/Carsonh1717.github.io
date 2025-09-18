@@ -31,6 +31,8 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               Software Engineer
 
+future: true 
+
 # A list of keywords for your blog
 keywords:              []
 
