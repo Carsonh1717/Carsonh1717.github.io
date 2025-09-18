@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\#jekyll-theme-hydejack",
+    "\\assets",
+    "\\assets\\img",
+    "\\assets\\img\\projects",
+    "\\_projects"
   ],
+  "SelectedNode": "\\_projects\\inventorysystems.md",
   "PreviewInSolutionExplorer": false
 }

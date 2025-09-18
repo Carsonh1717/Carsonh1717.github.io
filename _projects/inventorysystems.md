@@ -9,8 +9,6 @@ description: >
 date: 15 Oct 2025
 image: 
   path: /assets/img/projects/inventory-system.png
-  srcset: 
-    1920w: /assets/img/projects/inventory-system.png
 accent_color: '#512bd4'
 accent_image:
   background: '#2d1b69'
